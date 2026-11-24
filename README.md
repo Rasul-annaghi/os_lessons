@@ -1,2 +1,2 @@
-# os_lesson_2
+# os_lesson
 For the Operating System lessons of Mr. Ramil
